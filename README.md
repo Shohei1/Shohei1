@@ -64,7 +64,7 @@
   * The essence of this app is to assist individuals by connecting them with others who will act as accountabilities. The underlying idea is to leverage external motivation for better task management.
   * As it stands, this is just the MVP model, and I have a plethora of other features in mind that I aim to implement. Conducting interviews with various individuals has provided valuable insights into the factors that make tasks easier or harder to accomplish. With this understanding, my goal is to continue refining and expanding this project, helping people achieve their goals. After all, sometimes a gentle push from others is all we need to kickstart our endeavors.
  
-### **Elucile** 6months(2022/09 ~ 2023/03)
+### **Elucile** 6 months (2022/09 ~ 2023/03)
  **Position:**
  - Frontend Developer at Lubis Co., Ltd.
 
@@ -85,7 +85,7 @@ Outcome:
 Honed technical skills and gained experience in contributing to a product designed to elevate business presentations and communication.
 
 
-### **Awa Shortcut** 3months(2022/06 ~ 2022/09)
+### **Awa Shortcut** 3 months (2022/06 ~ 2022/09)
 
 - **Backend Development Focus:**
   - Extensive work on controllers to craft and refine application logic.
