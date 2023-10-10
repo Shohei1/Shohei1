@@ -1,6 +1,31 @@
 # Hi there 👋 This is my background as a web developer!
 (Last updated: 2023年10月10日)
 
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sycat.25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohei-yoshida/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syome_d25/)
+
+<!--
+##### Technologies/Language I use
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![React](https://shields.io/badge/-React-000000?style=flat&logo=react)
+![Node.js](https://shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![AWS](https://shields.io/badge/-AWS-000000?style=flat&logo=aws)
+
+
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+
+-->
+
 ## Speciality
 
 <table>
@@ -101,34 +126,25 @@ Honed technical skills and gained experience in contributing to a product design
   - Contributed significantly to the project's development and overall success.
 
 
-## 🔭 Skills currently using
+## 🔭 Technologies currently using
 - React
 - TypeScript
 - Node.js
 - PostgreSQL
 - Github Action
 - AWS
-  ### AWS
-  - Lambda
-  - API gateway
-  - Cognito
-  - RDS
-  - EC2
-  - VPC
-  - CloudFront
-  - Route 53
-  - S3
+  - Lambda, API gateway, Cognito, RDS, EC2, VPC, CloudFront, Route 53, S3
   - Terraform
-## 🌱 Skills used before
+## 🌱 Technologies used before
 - Laravel
 - PHP
 - MySQL
 - SCSS
   
-## ⚡  Skill want to learn now
+## ⚡  Technologies I want to learn now
 - Next.js
 - Nest.js
-- react native
+- React Native
 - Electron
 
 # Thank you for taking your time and reading this😁 
