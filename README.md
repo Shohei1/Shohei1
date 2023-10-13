@@ -40,7 +40,7 @@
 </table>
 
 ## Projects that I worked/working on
-  * Mythril Ore：(Now)
+  * Mythril Ore：(Now: Only Web)
     https://mythril-ore.com
   * Elucile：
     https://elucile-lubis.com
