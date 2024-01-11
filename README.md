@@ -41,7 +41,7 @@
 
 ## Projects that I worked/working on
   * Mythril Ore：
-    https://mythril-ore.com : Only Web Available and repository is not in public so ask me if you want to check it out
+    https://mythril-ore.com : (Currently not available) Repository is not in public so ask me if you want to check it out
   * Elucile：
     https://elucile-lubis.com
   * Awa Shortcut：
