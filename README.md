@@ -43,7 +43,7 @@
   * Mythril Ore：
     https://mythril-ore.com : (Currently not available) Repository is not in public so ask me if you want to check it out
   * Elucile：
-    https://elucile-lubis.com
+    elucile-lubis.com
   * Awa Shortcut：
     This web application no longer exists in public
     
